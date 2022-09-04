@@ -43,11 +43,12 @@ ul{
   padding-inline-start: 10px;
 }
 div{
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    padding: 30px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 30px;
+  overflow: scroll;
 }
 .navbutton{
   list-style-type: none;
